@@ -1,5 +1,6 @@
 {
   "name": "sharp-splitter",
+  "publisher": "oleg-avdeev",
   "displayName": "Sharp Splitter",
   "description": "Splits your c# files into classes and interfaces",
   "version": "0.0.1",
